@@ -58,4 +58,19 @@ Repositori ini disusun secara sistematis untuk memenuhi seluruh deliverable dari
 - **AI/ML:** OpenAI API (GPT-4/3.5) dengan metode **RAG**.
 - **Caching & Security:** Redis & Rate Limiter.
 
+  ## **. Team Member**
+
+1. **Muhammad Ichsan Junaedi (Project Manager, Frontend Developer, and Backend Developer)**  
+   [LinkedIn – Muhammad Ichsan Junaedi](https://www.linkedin.com/in/muhammad-ichsan-junaedi-74039b288/)
+
+2. **Rahmawati (Business Analyst)**  
+   [LinkedIn – Rahmawati](https://www.linkedin.com/in/rahmawati-269732281/)
+
+3. **Rafly Ariel Hidayat (Backend Developer)**  
+   [LinkedIn – Rafly Ariel Hidayat](https://www.linkedin.com/in/rafly-ariel-hidayat-794406392/)
+
+4. **Nabila Nurul Haq (UI/UX Designer)**  
+   [LinkedIn – Nabila Nurul Haq](https://www.linkedin.com/in/nabila-nurul-haq-1b0694343/)
+
+
 © 2024 SAPA-TAZKIA Team - Project Management & Web Development.
