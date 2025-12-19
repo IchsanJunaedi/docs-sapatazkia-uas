@@ -54,7 +54,7 @@ Repositori ini disusun secara sistematis untuk memenuhi seluruh deliverable dari
 
 - **Frontend:** React.js, Tailwind CSS, Axios.
 - **Backend:** Node.js, Express.js.
-- **Database:** PostgreSQL/MySQL via **Prisma ORM**.
+- **Database:** qdrant vectordb & MySQL via **Prisma ORM**.
 - **AI/ML:** OpenAI API (GPT-4/3.5) dengan metode **RAG**.
 - **Caching & Security:** Redis & Rate Limiter.
 
