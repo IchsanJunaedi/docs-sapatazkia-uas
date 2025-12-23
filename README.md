@@ -60,13 +60,13 @@ Repositori ini disusun secara sistematis untuk memenuhi seluruh deliverable dari
 
   ## **. Team Member**
 
-1. **Muhammad Ichsan Junaedi (Project Manager, Frontend Developer, and Backend Developer)**  
+1. **Muhammad Ichsan Junaedi (Project Manager, Full-Stack Engineer)**  
    [LinkedIn – Muhammad Ichsan Junaedi](https://www.linkedin.com/in/muhammad-ichsan-junaedi-74039b288/)
 
 2. **Rahmawati (Business Analyst)**  
    [LinkedIn – Rahmawati](https://www.linkedin.com/in/rahmawati-269732281/)
 
-3. **Rafly Ariel Hidayat (Backend Developer)**  
+3. **Rafly Ariel Hidayat (Business Analyst)**  
    [LinkedIn – Rafly Ariel Hidayat](https://www.linkedin.com/in/rafly-ariel-hidayat-794406392/)
 
 4. **Nabila Nurul Haq (UI/UX Designer)**  
